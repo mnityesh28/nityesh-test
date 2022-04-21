@@ -1,7 +1,7 @@
 non_pii_keys:
     whjr:
     - name
-    -lastname
+    - lastname
     - project
     - manager 
     - assigned
