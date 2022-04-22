@@ -8,3 +8,4 @@ non_pii_keys:
     - company
 include_tables:
   - whjr
+  - pet
