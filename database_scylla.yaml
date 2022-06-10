@@ -1,0 +1,7 @@
+non_pii_keys:
+    orders:
+    - customer_id
+    - order_id
+    - product
+include_tables:
+  - orders
